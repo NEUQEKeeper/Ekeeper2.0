@@ -15,10 +15,10 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  category: /categories/
-  tag: /tags/
   about: /about/
   articles: /archives/
+  projects: http://github.com/probberechts
+
 
 # Links to your social media accounts.
 # The 'icon' keys should correspond to Fontawesome icon names
@@ -29,7 +29,24 @@ nav:
 social_links:
   -
     icon: github
-    link: https://github.com/NEUQEKeeper/Ekeeper2.0
+    link: http://github.com/probberechts/cactus-dark
+  -
+    icon: twitter
+    link: /
+  -
+    icon: facebook
+    link: /
+  -
+    icon: mail
+    link: mailto:name@email.com
+  -
+    icon: mastodon
+    label: mastodon.social
+    link: https://mastodon.social/@alice
+  -
+    icon: mastodon
+    label: fosstodon.org
+    link: https://fosstodon.org/@alice
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
@@ -43,7 +60,7 @@ tags_overview: false
 posts_overview:
   show_all_posts: false
   post_count: 5
-  sort_updated: true
+  sort_updated: false
 
 # Customize the archive view.
 # Options:
@@ -62,7 +79,7 @@ post:
 # Customize the copyright years
 # Note: if start_year/end_year not provided, will use current year.
 copyright:
-  start_year: 2022
+  start_year: 2016
   end_year:
 
 # Customize the 404 page
@@ -148,7 +165,7 @@ open_graph:
 
 # Enable MathJax support for Latex
 mathjax:
-  enabled: true
+  enabled: false
 
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
