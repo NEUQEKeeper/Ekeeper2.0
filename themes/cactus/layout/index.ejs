@@ -71,4 +71,21 @@
     <% } %>
   </ul>
 </section>
+
+<section id="categories" class="left">
+    <div class="category-list-title">
+        <span class="h1"><a href="<%- url_for("categories") %>"><%= __('nav.category') %></a></span>
+        <% var visibleCategories = 0 %>
+        <% site.categories.each(function(cat){ %>
+          <% if (cat.length) { %>
+            <% visibleCategories += 1 %>
+          <% } %>
+        <% }) %>
+        <%- _p('counter.categories', visibleCategories) %>
+    </div>
+    <div class="category-list">
+      <%- list_categories() %>
+    </div>
+  </section>
+
 <% } %>
