@@ -17,6 +17,7 @@ nav:
   home: /
   category: /categories/
   tag: /tags/
+  store: /store/ 
   about: /about/
   articles: /archives/
 
