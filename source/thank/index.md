@@ -6,7 +6,7 @@ top_img: /img/train.gif
 
 {% gallery %}
 
-![乌云，21届E管家干事，本站的建立者之一和主要维护者](/img/Lin.jpg)
+![alex，21届E管家干事，本站的建立者之一和主要维护者](/img/alex.jpg)
 ![熊熊，20届E管家负责人之一，本站的建立者之一](/img/NorthBoat.jpg)
 ![鑫鑫，20届E管家负责人之一，本站宣传者](/img/xinxin.jpg)
 ![YR，21届E管家干事，教材收集和运营](/img/YR.jpg)
