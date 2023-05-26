@@ -1,7 +1,6 @@
 ---
 title: 使用PE盘重装 Windows
 date: 2022-1-4
-cover: /img/5.jpg
 description: 记得备份好资料
 categories:
   - 教程
@@ -74,5 +73,4 @@ U盘（最好大于等于32G，因为之后需要装一些镜像，如果只是�
 
 入梦工具箱：[提取码:ark3](https://www.123pan.com/s/s928Vv-mliWd )
 若链接失效请联系E管家公众号 2985586863（QQ），E管家提供免费的重装服务
-
 
