@@ -3,7 +3,7 @@
   class_desc: 本站所有仅供学习参考,各位有能力多多支持正版和原作者,下载后请24小时后删除。注：下载链接多为123云盘，网页上无需登录即可下载，夸克网盘需用手机号登陆，一则短信后即可开始下载，均不限速      
   link_list:
     - name: 需要帮助吗？
-      link: /img/gongzhonghao.pn
+      link: /img/gongzhonghao.png
       avatar: /img/help.jpg
       descr: (●'◡'●)
 
@@ -24,22 +24,22 @@
   link_list:
     - name: F搜
       link: https://fsoufsou.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 多吉搜索的继承者！
 
     - name: TGmeow
       link: https://meow.tg/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 最懂得你的**搜索 
 
     - name: similarweb
       link: https://www.similarweb.com/zh/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 寻找相似的网站
 
     - name: 学术聚合搜索
       link: https://scholar.chongbuluo.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 想要找论文?! 
 
 
@@ -48,17 +48,17 @@
   link_list:
     - name: CleverPDF
       link: https://www.cleverpdf.com/cn
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: Office在线转PDF
 
     - name: 脚本猫
       link: https://docs.scriptcat.org/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 国人开发的油猴替代品
 
     - name: Draw.io
       link: https://app.diagrams.net/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 在线绘制流程图,有离线版
 
 
@@ -67,22 +67,22 @@
   link_list:
     - name: 遇见狂神说
       link: https://www.kuangstudy.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 全栈开发者学习
 
     - name: 六级课程、资料及历年真题解析
       link: https://www.aliyundrive.com/s/LYKCfcBUaKn 
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 8u33
       
     - name: 究极阿里云盘资源分享合集
       link:  https://pan.quark.cn/s/e03a4f013f08
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 ZxS2    
 
     - name: 23考研数、英、政
       link: https://pan.quark.cn/s/fba3c449e9ef
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 付费资料合集，夸克网盘手机号登陆保存后即可下载
 
 
@@ -91,119 +91,119 @@
   link_list:
     - name: 高数上及解析
       link: https://www.123pan.com/s/ODW8Vv-eHYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 tlE8    
 
     - name: 高数下及解析
       link: https://www.123pan.com/s/ODW8Vv-tHYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 v2vX 
       
 
     - name: 大学物理学 第五版 
       link: https://www.123pan.com/s/ODW8Vv-5HYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 B4zl
 
     - name: 毛概 2021年版
       link: https://www.123pan.com/s/ODW8Vv-ZHYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 W7yg
 
     - name: 马原 2021年版
       link: https://www.123pan.com/s/ODW8Vv-iHYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 NWDA
 
     - name: 近代史 2021年版
       link: https://www.123pan.com/s/ODW8Vv-LHYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 Sy9s
       
     - name: 概率统计 浙大 第五版
       link: https://www.123pan.com/s/ODW8Vv-bHYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 vtY1
       
     - name: 数据结构C语言版 严蔚敏    
       link: https://www.123pan.com/s/ODW8Vv-zHYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 HSBO
 
     - name: 电路 邱关源 第五版
       link: https://www.123pan.com/s/ODW8Vv-cHYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 cq12
  
     - name: 人工智能：一种现代的方法 第三版
       link: https://www.123pan.com/s/ODW8Vv-8HYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 HibB
 
     - name: 数电 康华光 第六版
       link: https://www.123pan.com/s/ODW8Vv-0HYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 MVXA
 
     - name: 最优化导论 第四版
       link: https://www.123pan.com/s/ODW8Vv-KHYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 zD44
 
     - name: 汇编语言 郑晓薇 第二版
       link: https://www.123pan.com/s/ODW8Vv-uHYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 OoqR
 
     - name: 数据库系统概论 第五版
       link: https://www.123pan.com/s/ODW8Vv-UHYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 HbAE
 
     - name: 编译原理 龙书 第二版
       link: https://www.123pan.com/s/ODW8Vv-SHYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 wobl
 
     - name: 微型计算机原理与接口技术 第四版
       link: https://www.123pan.com/s/ODW8Vv-hAYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 G4g3
     
     - name: 模电 清华 第五版
       link: https://www.123pan.com/s/ODW8Vv-HAYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 PZRP  
 
     - name: 数电 清华 第六版
       link: https://www.123pan.com/s/ODW8Vv-EAYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 W0qH       
 
     - name: 电子电力技术 王力夫 第二版
       link: https://www.123pan.com/s/ODW8Vv-AAYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 nwCI 
 
     - name: 人工智能导论 李德毅
       link: https://www.123pan.com/s/ODW8Vv-9AYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 8BUP 
 
     - name: 工程材料学 王晓敏 第四版
       link: https://www.123pan.com/s/ODW8Vv-QAYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 4wKk 
 
     - name: 金属与热处理 哈工大
       link: https://www.123pan.com/s/ODW8Vv-kAYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 4HgP 
 
 
     - name: 材料科学基础 第三版
       link: https://www.123pan.com/s/ODW8Vv-4AYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 9krx 
       
       
@@ -214,17 +214,17 @@
   link_list:
     - name: qBittorrentEE
       link: https://www.123pan.com/s/ODW8Vv-WAYoA
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: qBittorrent修改版，提取码 ZYDt
 
     - name: IDM下载器
       link: https://www.123pan.com/s/s928Vv-aliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 i6gp
       
     - name: Motrix
       link: https://motrix.app/zh-CN/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 基于aria2构建的全能下载工具
       
       
@@ -234,22 +234,22 @@
   link_list:
     - name: Bandizip
       link: https://www.bandisoft.com/bandizip/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 好康简洁的解压缩软件
 
     - name: 7-Zip
       link: https://www.123pan.com/s/s928Vv-XliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 极优秀的解压缩软件(提取码:1jg2)
 
     - name: DiskGenius
       link: https://www.diskgenius.cn/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 硬盘分区工具(产自秦皇岛)
 
     - name: 火绒
       link: https://www.huorong.cn/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 干净的流氓杀毒软件
 
 
@@ -260,52 +260,52 @@
   link_list:
     - name: arch
       link: https://www.123pan.com/s/s928Vv-tliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 0kzP
       
     - name: manjaro
       link: https://www.123pan.com/s/s928Vv-SliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 MNRi
 
     - name: opensuse
       link: https://www.123pan.com/s/s928Vv-lliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 6g0J
 
     - name: ubuntu22.04
       link: https://www.123pan.com/s/s928Vv-ZliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 cFar
 
     - name: fedora
       link: https://www.123pan.com/s/s928Vv-cliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 E0op     
 
     - name: deepin
       link: https://www.123pan.com/s/s928Vv-eliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 0rmv
 
     - name: win7
       link: https://www.123pan.com/s/s928Vv-iliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 kJnh
     
     - name: win8.1精简版
       link: https://www.123pan.com/s/s928Vv-UliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 xNqo
 
     - name: win10消费者版
       link: https://www.123pan.com/s/s928Vv-bliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 AgVw
 
     - name: win11消费者版
       link: https://www.123pan.com/s/s928Vv-7liWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 4A1U
 
 
@@ -316,72 +316,72 @@
   link_list:
     - name: Library Genesis
       link: http://libgen.is/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 图书创世纪(自备魔法)
 
     - name: Z-library
       link: https://zh.eg1lib.org/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 搜书首选
 
     - name: LoreFree
       link: https://ebook2.lorefree.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 藏书量较大
 
     - name: SoBooks
       link: https://sobooks.net/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 有轻量广告
       
     - name: ManyBooks
       link: https://manybooks.net/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 全英文
 
     - name: 鸠摩搜书
       link: https://jiumodiary.com
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 老牌搜书引擎
 
     - name: TheFuture
       link: https://bks.thefuture.top/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 公益项目  
 
     - name: 苦瓜书盘
       link: https://www.kgbook.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 也是老牌了
 
     - name: 古腾堡计划
       link: https://gutenberg.org
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 公版图书
 
     - name: 书行天下
       link: https://www.sxpdf.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 有很多书
 
     - name: 爱悦读
       link: https://www.iyd.wang/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 也有很多书
 
     - name: 知识库
       link: https://book.zhishikoo.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 还是很多书
 
     - name: PDF之家
       link: http://pdfzj.cn/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 都是书   
 
     - name: PDF下载之家
       link: https://downloadpdf.cn/index.html
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 书啊！书啊！ 
 
 
@@ -392,22 +392,22 @@
   link_list:
     - name: COMICORES
       link: https://www.comicores.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 分享最好的漫画
 
     - name: 知道漫画补档
       link: https://www.1wwh.net/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 请遵守版规!
 
     - name: KINDLE漫画仓库
       link: https://www.comicbackup.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 再也不用到处找漫画了
 
     - name: 魔笔小说
       link: https://www.mobinovels.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 轻小说|资源收集 
       
       
@@ -417,27 +417,27 @@
   link_list:
     - name: PS_2022(win)
       link: https://www.123pan.com/s/s928Vv-MliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 Uz4Q
 
     - name: PR_2022(win)
       link: https://www.123pan.com/s/s928Vv-gliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 Yz4N  
 
     - name: DaVinci_Resolve
       link: https://www.123pan.com/s/s928Vv-IliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 1yLa
 
     - name: waifu2x
       link: https://www.123pan.com/s/s928Vv-JliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 QQOh  
 
     - name: adobe老版本
       link: https://www.yuque.com/books/share/205ec53c-5013-4bdb-ad02-ac96cc761203/ao9fmv
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 包括win和mac版
 
 
@@ -447,32 +447,32 @@
   link_list:
     - name: 360断网急救箱
       link: https://www.123pan.com/s/s928Vv-oliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 tSj6
 
     - name: 360文件粉碎机
       link: https://www.123pan.com/s/s928Vv-BliWd 
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 coYk
 
     - name: 联想工程师故障工具包
       link: https://www.123pan.com/s/s928Vv-4liWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 YwdW 
 
     - name: 微软运行库
       link: https://www.123pan.com/s/s928Vv-pliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 N7rx
 
     - name: Process_lasso
       link: https://www.123pan.com/s/s928Vv-xliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 iA6A   
 
     - name: 流氓软件清理器
       link: https://www.123pan.com/s/s928Vv-fliWd 
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 R6tT
 
 
@@ -482,12 +482,12 @@
   link_list:
     - name: 入梦工具箱
       link: https://www.123pan.com/s/s928Vv-mliWd 
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 ark3
 
     - name: Office Tool
       link: https://www.123pan.com/s/s928Vv-wliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 9zMY
 
 
@@ -497,27 +497,27 @@
   link_list:
     - name: 天若OCR本地版
       link: https://gitee.com/wanglifree/tianruoocr-cl/releases
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 本地文字识别
 
     - name: Paper2GUI
       link: https://github.com/Baiyuetribe/paper2gui?utm_source=iplaysoft.com&hmsr=iplaysoft.com
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 让每个人都简单方便的使用前沿人工智能技术
 
     - name: 天选姬
       link: https://www.123pan.com/s/s928Vv-1liWd 
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 提取码 Xfmc
 
     - name: BiliLite
       link: https://xiaoyaocz.lanzouv.com/b00vuoc2f 
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 更好用的哔哩哔哩桌面端
 
     - name: steamclear
       link: https://www.123pan.com/s/s928Vv-sliWd
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: steam缓存专清(提取码:JFZ5)
 
 
@@ -527,27 +527,27 @@
   link_list:
     - name: I Tell You
       link: https://msdn.itellyou.cn/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 资源站,Windows镜像/Office等
 
     - name: flysheep – 资源避难所
       link: http://www.flysheep6.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 一起来玩游戏吧！
 
     - name: 果壳剥壳
       link: https://www.ghxi.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 各类破解资源，IDEA 等等等等
       
     - name: 七米蓝的仓库
       link: https://al.chirmyram.com/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 不只分享资源，还分享经验
       
     - name: OPGG
       link: https://www.op.gg/
-      avatar: /img/pacman.jpg
+      avatar: /img/logo.jpg
       descr: 大佬出装/战绩查询/职业OB
 
 
