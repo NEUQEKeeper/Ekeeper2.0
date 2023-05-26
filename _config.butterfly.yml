@@ -99,7 +99,7 @@ disable_top_img: false
 index_img: /img/neuq.png
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: /img/shadow.jpg
 
 # The banner image of archive page
 archive_img: /img/anheqiao.jpg
@@ -115,7 +115,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img:
+category_img: /img/cloud.jpg
 
 # The banner image of category page
 # format:
@@ -571,13 +571,13 @@ activate_power_mode:
 
 # Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
 fireworks:
-  enable: false
+  enable: true
   zIndex: 9999 # -1 or 9999
   mobile: false
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: true
+  enable: false
   mobile: false
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
@@ -723,7 +723,7 @@ newest_comments:
 
 # Conversion between Traditional and Simplified Chinese (簡繁轉換)
 translate:
-  enable: true
+  enable: false
   # The text of a button
   default: 简
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
