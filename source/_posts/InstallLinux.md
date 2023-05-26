@@ -1,7 +1,6 @@
 ---
 title: 如何安装 Linux
 date: 2022-1-7
-cover: /img/1.png
 description: 是Linux!
 categories:
   - 教程

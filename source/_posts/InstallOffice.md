@@ -1,7 +1,6 @@
 ---
 title: 如何安装 Office
 date: 2022-1-16
-cover: /img/4.png
 description: 你不会还没有office吧
 categories:
   - 教程
