@@ -27,12 +27,14 @@ JetBrains有丰富强大的软件群
 学生账号将拥有以上所有正版软件**一年**的免费使用权，一年后可续订学生许可证，每次申请将持续一年
 
 链接：[JetBrains学生账号申请](https://www.jetbrains.com/shop/eform/students)
-[![v8LbUe.png](https://s1.ax1x.com/2022/08/11/v8LbUe.png)](https://imgtu.com/i/v8LbUe)
+
+<img src="./assets/jb.png">
+
 电子邮箱处填写你的东大邮箱地址，如：202012143@stu.neu.edu.cn
 
 填写信息并点击申请免费产品后，进入教育邮箱，将会收到一封申请邮件，如图
 
-[![v8Lvvt.png](https://s1.ax1x.com/2022/08/11/v8Lvvt.png)](https://imgtu.com/i/v8Lvvt)
+<img src="./assets/email.png">
 
 点击邮件中链接，按照流程走，直到注册成功
 

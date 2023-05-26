@@ -18,7 +18,7 @@ tags:
 
 [在此再次由衷感谢为本站做出过贡献的校友们](/thank/)
 
-[![hahaha](/img/magic.jpg "哈哈哈")](https://52.mk/)
+[![hahaha](./assets/clash.jpg "哈哈哈")](https://52.mk/)
 
 
 
