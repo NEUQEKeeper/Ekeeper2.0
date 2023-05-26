@@ -18,10 +18,9 @@
 menu:
   主页: / || fas fa-home
   资源链接: /link/ || fas fa-link
-  文章分类: /categories/ || fas fa-folder-open
+  文章归档: /archives/ || fas fa-archive
   特别感谢: /thank/ || fas fa-handshake
   关于我们: /about/ || fas fa-heart
-  时间线: /archives/ || fas fa-archive
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -107,7 +106,7 @@ archive_img: /img/anheqiao.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: /img/snow.jpg
 
 # The banner image of tag page
 # format:
@@ -431,7 +430,7 @@ footer:
   owner:
     enable: true
     since: 2021
-  custom_text: 彼岸花花开彼岸，断肠草草断肝肠。
+  custom_text: 这趟旅程若算开心，亦是无负这一生
   copyright: true # Copyright of theme and framework
 
 # Analysis
@@ -578,7 +577,7 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: false
+  enable: true
   mobile: false
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
@@ -669,24 +668,24 @@ aside:
       link: https://github.com/NEUQEKeeper
   card_announcement:
     enable: true
-    content: 希望你能从本站获取便利。若对本站有任何问题或建议请联系邮箱 neuqekeeper@163.com，我们会定期查看并回复，欢迎来信！个人问题请联系E管家QQ 2985586863
+    content: 希望你能从本站获取便利。若对本站有任何问题或建议请联系邮箱 neuqekeeper@163.com，我们会定期查看并回复，欢迎来信！个人电脑问题请联系E管家QQ 2985586863
   card_recent_post:
-    enable: true
+    enable: false
     limit: 1 # if set 0 will show all
     sort: date # date or updated
     sort_order: # Don't modify the setting unless you know how it works
   card_categories:
-    enable: false
+    enable: true
     limit: 4 # if set 0 will show all
     expand: none # none/true/false
     sort_order: # Don't modify the setting unless you know how it works
   card_tags:
-    enable: false
+    enable: true
     limit: 12 # if set 0 will show all
     color: false
     sort_order: # Don't modify the setting unless you know how it works
   card_archives:
-    enable: false
+    enable: true
     type: monthly # yearly or monthly
     format: MMMM YYYY # eg: YYYY年MM月
     order: -1 # Sort of order. 1, asc for ascending; -1, desc for descending
@@ -724,9 +723,9 @@ newest_comments:
 
 # Conversion between Traditional and Simplified Chinese (簡繁轉換)
 translate:
-  enable: false
+  enable: true
   # The text of a button
-  default: 繁
+  default: 简
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
   defaultEncoding: 2
   # Time delay
