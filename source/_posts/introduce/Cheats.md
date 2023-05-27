@@ -4,7 +4,7 @@ date: 2022-08-02 16:36:09
 description: E管家代代传承的秘密
 top: true/2
 categories:
-  - 教程
+  - 科普
 tags:
   - 乐子
 ---
@@ -18,7 +18,7 @@ tags:
 
 [在此再次由衷感谢为本站做出过贡献的校友们](/thank/)
 
-[![hahaha](./assets/clash.jpg "哈哈哈")](https://52.mk/)
+[![hahaha](/img/assets/clash.jpg "哈哈哈")](https://52.mk/)
 
 
 

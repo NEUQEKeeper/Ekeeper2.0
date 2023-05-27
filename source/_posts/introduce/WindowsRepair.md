@@ -3,7 +3,7 @@ title: 常见系统问题的正确处理方式
 date: 2022-8-27
 description: 自救流程
 categories:
-  - 教程
+  - 科普
 tags:
   - 系统
 ---

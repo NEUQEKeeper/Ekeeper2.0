@@ -6,7 +6,7 @@ top: true/1
 tags:
   - 网络
 categories:
-  - 教程
+  - 科普
 ---
 如果你不能正常访问本站，那么大概率你的网络遭到了DNS污染等错误。
 
@@ -40,13 +40,13 @@ categories:
 
 软件初次启动会弹出“初始化弹窗”，选择第一个“通过空白模板来创建DNS服务”，并“确定”。
 
-<img src="./assets/vlZ2bd.png">
+<img src="/img/assets/vlZ2bd.png">
 
 - 第三步：添加18bit DNS服务到软件中
 
 回到软件首页，选择右上角的“DNS Server”进入DNS服务的列表弹窗，这时整个列表还是空白，我们需选择左上角的“add”添加第一个DNS服务到软件中
 
-<img src="./assets/vlZgDH.png">
+<img src="/img/assets/vlZgDH.png">
 
 有以下几种DNS服务可以选择：
 

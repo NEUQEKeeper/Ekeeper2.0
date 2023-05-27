@@ -3,7 +3,7 @@ title: 如何安装 Linux
 date: 2022-1-7
 description: 是Linux!
 categories:
-  - 教程
+  - 培训
 tags:
   - 系统
 ---

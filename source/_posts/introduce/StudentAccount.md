@@ -3,7 +3,7 @@ title: 如何利用学生邮箱享受正版软件
 date: 2022-8-11
 description: JetBrains全家桶、Azure服务器、Apple Music
 categories:
-  - 教程
+  - 科普
 tags:
   - 白嫖
 ---
@@ -28,13 +28,13 @@ JetBrains有丰富强大的软件群
 
 链接：[JetBrains学生账号申请](https://www.jetbrains.com/shop/eform/students)
 
-<img src="./assets/jb.png">
+<img src="/img/assets/jb.png">
 
 电子邮箱处填写你的东大邮箱地址，如：202012143@stu.neu.edu.cn
 
 填写信息并点击申请免费产品后，进入教育邮箱，将会收到一封申请邮件，如图
 
-<img src="./assets/email.png">
+<img src="/img/assets/email.png">
 
 点击邮件中链接，按照流程走，直到注册成功
 
