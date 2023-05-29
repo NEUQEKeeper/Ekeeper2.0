@@ -1,6 +1,7 @@
 ---
 title: AX6S刷入openwrt记录
 date: 2023-5-29 18:18:18
+author: 研酱哒哟
 description: 被导师叫去当工具人了捏🥺
 categories:
   - 教程
